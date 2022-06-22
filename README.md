@@ -25,13 +25,21 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 
 PROJECTS IN WHICH I PARTICIPATED:
 - Moonbeam https://moonbeam.network/ (ambassador, made guides on participation in the Ambassador program, filmed a video about the project)
+- https://medium.com/@voronxr/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%B8-moonbeam-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B9-metamask-243dac8578cc
 - Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya)
+- 
 - InVarch https://www.invarch.network/ (I am an active member of the team for creating and distributing content about the project. I made a lot of videos covering the news of the project, I also created videos and text guides for the project)
+- 
 - FireFly https://firefly.exchange/ (In this decentralized exchange project, I helped test the trading application in beta version, identify bugs and make reports for the team. The tests were successful, the exchange is up and running)
+- 
 - Parallel Finance https://parallel.fi/ (In this project, I was an ambassador, I made a lot of articles/guides, shot a video for the project, covered its news and tested the beta version of the DOTSAMA investment platform)
+- 
 - Golden Protocol https://golden.com/ (In this protocol, I am filling the library with all kinds of information about people, companies, facts of our world. Already created many articles)
 
+I also have experience in raising and administering nodes for projects.
+
 PORTFOLIO OF MY WORKS FOR THE ABOVE PROJECTS:
+(Most of the work is done in Russian, but I can also write and make videos for an English-speaking audience.)
 
 
 
