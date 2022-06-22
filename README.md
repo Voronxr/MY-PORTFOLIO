@@ -20,6 +20,18 @@ My name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto indus
 - I'm fond of NFT and Metavers
 - study English (native Russian)
 
+EDUCATION - Novosibirsk State University, Department of Management and Logistics (2015)
+
+
+PROJECTS IN WHICH I PARTICIPATED:
+- Moonbeam https://moonbeam.network/ (ambassador, made guides on participation in the Ambassador program, filmed a video about the project)
+- Goldfinch https://goldfinch.finance/ (Produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya)
+- InVarch https://www.invarch.network/ (I am an active member of the team for creating and distributing content about the project. I made a lot of videos covering the news of the project, I also created videos and text guides for the project)
+- FireFly https://firefly.exchange/ 
+- Parallel Finance https://parallel.fi/ 
+- Golden Protocol https://golden.com/ 
+- 
+
 
 <!---
 Voronxr/Voronxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
