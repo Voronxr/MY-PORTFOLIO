@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Voronxr
+- 👋 Hi, I’m Viktor 
 - 👀 I’m interested in crypto
 - 🌱  I study cryptocurrencies, participate in testing new projects
 - 📫 How to reach me telegram - @voronrockstar
