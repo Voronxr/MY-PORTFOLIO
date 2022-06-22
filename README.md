@@ -7,7 +7,7 @@
 
 THIS IS MY PORTFOLIO:
 
-My name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto industry in 2021, I work in this field full time
+My name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto industry in 2021. I am compiling this resume for a full-time job search in the crypto industry.
 
 <a href="https://ibb.co/2S5r2Dt"><img src="https://i.ibb.co/RN7Knx0/2022-06-21-16-30-50.jpg" alt="2022-06-21-16-30-50" border="0"></a>
 
@@ -25,11 +25,16 @@ EDUCATION - Novosibirsk State University, Department of Management and Logistics
 
 PROJECTS IN WHICH I PARTICIPATED:
 - Moonbeam https://moonbeam.network/ (ambassador, made guides on participation in the Ambassador program, filmed a video about the project)
-- Goldfinch https://goldfinch.finance/ (Produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya)
+- Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya)
 - InVarch https://www.invarch.network/ (I am an active member of the team for creating and distributing content about the project. I made a lot of videos covering the news of the project, I also created videos and text guides for the project)
-- FireFly https://firefly.exchange/ 
-- Parallel Finance https://parallel.fi/ 
-- Golden Protocol https://golden.com/ 
+- FireFly https://firefly.exchange/ (In this decentralized exchange project, I helped test the trading application in beta version, identify bugs and make reports for the team. The tests were successful, the exchange is up and running)
+- Parallel Finance https://parallel.fi/ (In this project, I was an ambassador, I made a lot of articles/guides, shot a video for the project, covered its news and tested the beta version of the DOTSAMA investment platform)
+- Golden Protocol https://golden.com/ (In this protocol, I am filling the library with all kinds of information about people, companies, facts of our world. Already created many articles)
+
+PORTFOLIO OF MY WORKS FOR THE ABOVE PROJECTS:
+
+
+
 - 
 
 
