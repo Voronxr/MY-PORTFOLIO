@@ -5,7 +5,7 @@
 - Discord - VoronXR#9768
 - email moriskaktak@gmail.com
 
-THIS IS MY PORTFOLIO:
+**THIS IS MY PORTFOLIO:**
 
 My name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto industry in 2021. I am compiling this resume for a full-time job search in the crypto industry.
 
@@ -23,7 +23,7 @@ My name is Viktor Voronkov (@VoronXR) I am 27 years old, joined the crypto indus
 EDUCATION - Novosibirsk State University, Department of Management and Logistics (2015)
 
 
-PROJECTS IN WHICH I PARTICIPATED:
+**PROJECTS IN WHICH I PARTICIPATED:**
 - Moonbeam https://moonbeam.network/ (ambassador, made guides on participation in the Ambassador program, filmed a video about the project)
 - [How added Moonbeam chain in Metamask guide](https://medium.com/@voronxr/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%B8-moonbeam-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B9-metamask-243dac8578cc)
 - Goldfinch https://goldfinch.finance/ (produced for the project MACRO and MICROeconomic analysis of the economy of Kenya. Drafted the terms of a loan deal for Cashway in Kenya)
@@ -36,7 +36,8 @@ PROJECTS IN WHICH I PARTICIPATED:
 - 
 - Golden Protocol https://golden.com/ (In this protocol, I am filling the library with all kinds of information about people, companies, facts of our world. Already created many articles)
 
-I also have experience in raising and administering nodes for projects.
+_I also have experience in raising and administering nodes for projects.
+Most of the work is done in Russian, but I can also write and make videos for an English-speaking audience._
 
 PORTFOLIO OF MY WORKS FOR THE ABOVE PROJECTS:
 (Most of the work is done in Russian, but I can also write and make videos for an English-speaking audience.)
